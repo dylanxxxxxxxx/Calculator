@@ -1,4 +1,4 @@
-# Caculator
+# Calculator
 
 Windows 极简轻量计算器：圆角按钮、低饱和配色、浅色 / 深色主题。
 
